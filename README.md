@@ -22,3 +22,7 @@ Recognise handwritten digits and test how image cleaning and augmentation affect
 ## Data
 
 MNIST. A trained model is saved as `model.h5`.
+
+## Earlier versions
+
+The `earlier-version/` folder keeps files from earlier versions of this project (Digit-Recognition) that differ from the files above.
